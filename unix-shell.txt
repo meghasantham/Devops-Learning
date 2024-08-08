@@ -5,3 +5,8 @@ pswd
 
 rm
 mkdir
+
+rm-rf
+cd 
+ls -l
+sudo -su
