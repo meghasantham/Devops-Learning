@@ -1,2 +1,2 @@
-# Devops-Learning
+# Learning
 Devops-training-docs
