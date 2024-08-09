@@ -5,3 +5,9 @@ hello, this is docker file
   ls ]
   cmsd
   
+hi\
+
+jhguahSBNlqk
+
+smnBISUh  qjs
+\
