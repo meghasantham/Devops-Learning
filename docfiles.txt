@@ -4,6 +4,9 @@ hello, this is docker file
 
   ls ]
   cmsd
+  kmk
+  las,aS
+  GIT 
   
 hi\
 
